@@ -27,6 +27,13 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [
+      "react",
+      "material-ui",
+      "firebase",
+      "styled-components",
+      "d3"
+  ],
   "eslintConfig": {
     "extends": "react-app"
   },
